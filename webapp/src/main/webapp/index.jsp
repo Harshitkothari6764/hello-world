@@ -1,6 +1,9 @@
 <form action="action_page.php">
   <div class="container">
+
+
     <h1> WELCOME TO HARSHIT'S PROJECT </h1>
+
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
@@ -24,9 +27,7 @@
   </div>
 
 
-
-
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou for visiting! </h1>
 
   
 </form>
